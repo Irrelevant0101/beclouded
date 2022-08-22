@@ -1,0 +1,58 @@
+.img{
+    background-image: url("pic.jpg");
+    background-size:cover;
+  background-repeat: repeat;
+    height: 100vh;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.ml-3{
+    color: rgb(224, 182, 104);
+    font-size: xx-large;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: solid;
+}
+.title-font{
+    color: rgb(212, 188, 77);
+}
+.mb-8{
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    color: rgb(223, 77, 179);
+}
+.inline-flex{
+    color: rgba(95, 8, 209, 0.562);
+    
+}
+.sec0{
+    background-color: rgba(240, 238, 130, 0.445);
+}
+.sec1{
+    background-color: rgba(233, 124, 200, 0.39);
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.sec2{
+    background-color: rgba(228, 225, 36, 0.315);
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.sec3{
+    background-color: rgba(214, 37, 155, 0.596);
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+.mt-1{
+    color: rgb(211, 157, 77);
+}
+.sec7{
+    background-color: rgba(126, 37, 199, 0.507);
+    margin: 100px;
+}
